@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Darshan H D — Personal Portfolio
 
 A modern, premium, fully responsive personal portfolio website built for a Computer Science Engineering student and Software Developer. Features a dark-themed glassmorphism aesthetic, smooth Framer Motion animations, and a production-ready Next.js 15 architecture.
@@ -239,3 +240,6 @@ This project is open-sourced for personal portfolio use. Feel free to fork and c
 ## 🙋 Questions?
 
 Reach out via the [contact form](https://darshanhd.dev/#contact) or open an issue in this repository.
+=======
+# Darshan-portfolio
+>>>>>>> 8c238cf7aeaab4a39e242b7cde5ef5913e2c23cd
